@@ -1,5 +1,5 @@
 
--- Show 10 top-paying remote jobs for Data Analyst role
+-- Top 10 highest-paying remote Data Analyst jobs.
 
 
 SELECT
